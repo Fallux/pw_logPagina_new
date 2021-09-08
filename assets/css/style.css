@@ -1,5 +1,6 @@
 body{
-    background-color: #f5f5f5;
+    background-color: #fc0000;
+    background-size: contain;
 }
 #container{
     width: 100%;
@@ -12,11 +13,12 @@ body{
     margin-bottom: 30px;
     border-radius: 5%;
     border-style: solid;
-    border-color: black;
+    border-color: #303841;
     display: flex;
     align-items: center;
     flex-direction: column;
     text-transform: capitalize;
+    position: relative;
 }
 #logo{
     width: 100%;
@@ -30,27 +32,55 @@ input{
     width: 200px;
     font-size: 11px;
     border-style: solid;
-    border-color: black;
+    border-color: #303841;
     border-radius: 10%;
+}
+.exclamation{
+    color: red;
+    /* niet gelukt */
 }
 .text_plate{
     margin-top: 20px;
     height: 30px;
 }
-#inlog{
+#verzend{
+    background-color: #1b85ff;
+    color: white;
+    font-weight: 500;
     margin-top: 5%;
-    margin-bottom: 20%;
+    margin-bottom: 18%;
+}
+#verzend:hover{
+    background-color: #0069e0;
+    color: white;
 }
 #account{
     margin-bottom: 15px;
+    background-color: white;
+    border-width: thin;
+    border-style: solid;
+    border-color: #303841;
+    border-radius: 10%;
+    color: #0067dd ;
 }
 small{
     width: 100%;
     max-width: 200px;
-    color: blue;
+    color: rgb(80, 80, 255);
     padding: 5px;
 }
 article{
     /* position: absolute; */
     align-items: center;
+}
+a:link{
+    text-decoration: none;
+    color: rgb(180, 180, 180);
+}
+a:hover{
+    color:rgb(80, 80, 255);
+}
+a:visited{
+    text-decoration: none;
+    color: rgb(180, 180, 180);
 }
