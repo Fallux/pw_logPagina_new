@@ -1,0 +1,20 @@
+ELEMENTEN DIE IK NODIG HEB VOOR DE INLOGPAGINA
+-----------------------------------------------
+- de titel login met de naam van de website (en de logo)
+
+. labels met input text en placeholders
+
+- kleine formaat (als in de achtergrond vierkant waar de labels staan)
+
+. de hoeveelhied bepaalde kleuren is heel weinig
+
+- enorm login knop met de passende kleur
+
+. iets kleinere knop of hele kleine tekst om te registeren
+
+- kleine text wachtwoord vergeten
+
+. kleine text gebruikersvoorwaarden, privacy en security 
+  (^lijkt me wel prettig^)
+
+________________________________________________________________________________
