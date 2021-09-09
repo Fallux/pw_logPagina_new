@@ -64,6 +64,10 @@ input{
     font-size: 80%;
     color: #0067dd;
 }
+#account:hover{
+    color: #0050ac;
+    background-color: #3038411f;
+}
 .smallT{
     width: 100%;
     max-width: 200px;
