@@ -35,6 +35,9 @@ input{
     border-color: #303841;
     border-radius: 10%;
 }
+input:visited{
+    background-color: black;
+}
 .exclamation{
     color: red;
     /* niet gelukt */
